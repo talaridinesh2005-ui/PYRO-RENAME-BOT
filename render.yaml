@@ -23,9 +23,3 @@ services:
         sync: false
       - key: DB_URL
         sync: false
-      - key: START_PIC
-        sync: false
-      - key: ADMIN
-        sync: false
-      - key: WEB_SUPPORT
-        sync: false
